@@ -1,6 +1,6 @@
 # 🧠 MindCraft AI Quiz Game
 
-![MindCraft Logo](logo.png)
+![MindCraft Logo](logo.JPG)
 
 **🚀 A fun and fast-paced AI-powered quiz game!**  
 
